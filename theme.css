@@ -1,0 +1,42 @@
+.container{
+  text-align: center;
+  margin-top: 100px;
+  display: flex;
+  justify-content: space-around;
+
+}
+ul{
+  list-style-type: none;
+}
+ul li{
+  height: 50px;
+}
+button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.dea{
+  border:1px solid;
+}
+h1{
+  text-align: center;
+  border-bottom: 1px solid #4CA;
+  color: #4CAF50;
+}
+h3{
+  text-align: center;
+  border-bottom: 1px solid #4CA;
+  color: #4CAF50;
+}
+label{
+  color: #4CAF50;
+  
+}
